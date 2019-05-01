@@ -1,0 +1,17 @@
+/*CSS For AIA Table*/
+
+
+table {
+    border:1px solid black;
+    margin-top:20px;
+    border-collapse: collapse;
+}
+
+td {
+    border:1px solid black;
+}
+
+th {
+    border:1px solid black;
+    text-align:left;
+}
